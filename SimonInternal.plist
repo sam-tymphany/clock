@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>Horn APP</string>
+				<string>奇点平台</string>
 				<key>title</key>
-				<string>Horn APP</string>
+				<string>奇点平台</string>
 				<key>bundle-version</key>
 				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.szhorn.H569CA732</string>
+				<string>com.szhorn.Singularity</string>
 			</dict>
 		</dict>
 	</array>
