@@ -33,11 +33,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>subtitle</key>
-				<string>Horn APP</string>
+				<string>豪恩声学</string>
 				<key>title</key>
-				<string>Horn APP</string>
+				<string>豪恩声学</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>2.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
