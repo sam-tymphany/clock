@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://sz-btfs-v2-yun-ftn.weiyun.com/ftn_handler/36ac48b21bd2577677c6231a990614809803e7568961297e09d5f6ba5098cf3c6b9b61cdf3dfb6fb7a8c02912f57ad6ef3476730c9b9969f5041715eaa463bcc/h5.ipa</string>
+					<string>http://192.168.110.59:8093/h5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
