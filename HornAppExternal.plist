@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.17.249.3:8093/h5.ipa</string>
+					<string>http://112.95.211.155:8093/h5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.17.249.3:8093/icon@2x.png</string>
+					<string>http://112.95.211.155:8093/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://218.17.249.3:8093/icon-57h.png</string>
+					<string>http://112.95.211.155:8093/icon-57h.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
