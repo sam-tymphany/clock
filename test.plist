@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.110.59:8093/icon@2x.png</string>
+					<string>https://raw.githubusercontent.com/samxuweb/Timer/master/files/icon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.110.59:8093/icon-57h.png</string>
+					<string>https://raw.githubusercontent.com/samxuweb/Timer/master/files/icon-57h.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
